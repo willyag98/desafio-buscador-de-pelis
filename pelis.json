@@ -1,17 +1,17 @@
 [{
-"title": "Hitman",
-"rating": 4,
-"tags": ["accion", "favorita", "nueva"]    
+  "title": "Hitman",
+  "rating": 4,
+  "tags": ["accion", "favorita", "nueva"]    
 },
 
 {
-"title": "Magic Book",
-"rating": 3,
-"tags": ["favorita", "nueva"]
+  "title": "Magic Book",
+  "rating": 3,
+  "tags": ["favorita", "nueva"]
 },
 
 {
-"title": "Magic World",
-"rating": 5,
-"tags": ["fantasia"]
+  "title": "Magic World",
+  "rating": 5,
+  "tags": ["fantasia"]
 }]
